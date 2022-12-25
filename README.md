@@ -5,6 +5,10 @@ sample random distribution you should know
 2. Time vary is external variables for random function for time ago, they discoverd that random function should not including time as parameter it create some shared distribution value as result. 🧸💬 If we want random from single node or remote program we often use ```time % value``` that is because client connect with one source or the clock. 
 3. 🐑💬 Hardware clock is accuracy but random function has more distribution ranges because it is accuracy from design function on vary current information and power input ( bus clock and response ), some technique measure running time of function response is blocked by time trying but can you vary time response with hardware⁉️ ( as reading about some security door and rubic )
 
+## Sample codes ##
+
+To prove we create some vary inputs with different parameters value from ```two random.normal```, ```datetime``` and ```coefficient values``` result of 100 times run and 1,000 times run indicated how the networks learn by itself.
+
 ```
 import tensorflow as tf
 

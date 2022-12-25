@@ -1,9 +1,9 @@
 # random_distribution
 sample random distribution you should know
 
-1. It self learning from previous random result from the same node created.
-2. Time vary is external variables for random function for time ago, they discoverd that random function should not including time as parameter it create some shared distribution value as result. 🧸💬 If we want random from single node or remote program we often use ```time % value``` that is because client connect with one source or the clock. 
-3. 🐑💬 Hardware clock is accuracy but random function has more distribution ranges because it is accuracy from design function on vary current information and power input ( bus clock and response ), some technique measure running time of function response is blocked by time trying but can you vary time response with hardware⁉️ ( as reading about some security door and rubic )
+1. It self-learning from previous random results from the same node created.
+2. Time varies is an external variable for random functions for some time ago, they discovered that random functions should not include time as a parameter it creates some shared distribution value as result. 🧸💬 If we want random from a single node or remote program we often use time % value that is because the client connects with one source or the clock.
+3. 🐑💬 Hardware clock is accurate but the random function has more distribution ranges because it is accurate from the design function on varying current information and power input ( bus clock and response ), some techniques measure the running time of function response is blocked by time trying but can you vary time response with hardware⁉️ ( as reading about some security doors and rubic )
 
 ## Sample codes ##
 

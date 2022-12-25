@@ -41,9 +41,15 @@ def random_action_learning( ):
 	return action
 ```
 
+## Running 100 times see how different by short time run value frequencies different ##
+
+Start from 0 - 100 from 6 samples, different frequency value return from the function ```random_action_learning( )``` can be observed and the amount is acceptable.
+
 ![name-of-you-image](https://github.com/jkaewprateep/random_distribution/blob/main/Figure_1.png)
 
+## Running 1000 times see how different by short time run value frequencies different ##
 
+Start from 0 - 1,000 from 6 samples, different frequency value return from the function ```random_action_learning( )``` not any significants and the amount is to be accepted. The ```random_action_learning( )``` learn by itself to balance the output in frequiency value.
 
 ![name-of-you-image](https://github.com/jkaewprateep/random_distribution/blob/main/Figure_2.png)
 

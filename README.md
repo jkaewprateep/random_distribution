@@ -38,3 +38,11 @@ def random_action_learning( ):
 
 
 ![name-of-you-image](https://github.com/jkaewprateep/random_distribution/blob/main/Figure_2.png)
+
+
+
+![name-of-you-image](https://github.com/jkaewprateep/random_distribution/blob/main/FlappyBird_small.gif)
+
+
+
+![name-of-you-image](https://github.com/jkaewprateep/random_distribution/blob/main/Pong%20Game.gif)

@@ -64,3 +64,14 @@ The Flappy bird player learn to balance from its environment inputs.
 The Ping-Pong player learn to balance from its environment inputs.
 
 ![name-of-you-image](https://github.com/jkaewprateep/random_distribution/blob/main/Pong%20Game.gif)
+
+## Files and Directory ##
+
+File name | Description |
+--- | --- |
+sample.py | sample codes |
+Figure_1.png | running 100 times |
+Figure_2.png | running 1,000 times |
+FlappyBird_small.gif | running over 1,000 times, Flappy Bird |
+Pong Game.gif | running over 1,000 times, Pong games |
+README.md | readme file |

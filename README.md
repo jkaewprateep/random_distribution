@@ -3,7 +3,7 @@ sample random distribution you should know
 
 1. It self learning from previous random result from the same node created.
 2. Time vary is external variables for random function for time ago, they discoverd that random function should not including time as parameter it create some shared distribution value as result. 🧸💬 If we want random from single node or remote program we often use ```time % value``` that is because client connect with one source or the clock. 
-3. 🐑💬 Hardware clock is accuracy but random function has more distribution ranges because it is accuracy from design function on vary current information and power input.
+3. 🐑💬 Hardware clock is accuracy but random function has more distribution ranges because it is accuracy from design function on vary current information and power input ( bus clock and response ).
 
 ```
 import tensorflow as tf

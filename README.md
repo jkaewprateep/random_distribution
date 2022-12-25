@@ -1,6 +1,9 @@
 # random_distribution
 sample random distribution you should know
 
+1. It self learning from previous random result from the same node created.
+2. Time vary is external variables for random function for time ago, they discoverd that random function should not including time as parameter it create some shared distribution value as result.
+
 ```
 import tensorflow as tf
 
